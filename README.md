@@ -1,3 +1,2 @@
 ## typing_hacker
-### HTML
-### CSS
+### HTML + CSS
