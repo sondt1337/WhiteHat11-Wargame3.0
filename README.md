@@ -1,6 +1,6 @@
 # WhiteHat|WARGAME 3.0
 
-Dưới đây là 1 số challenge mình làm được
+Dưới đây là 1 số challenge mình làm được trong quá trình giải diễn ra
 
 | Topic | Challenge | Pts | Rate
 | --- | --- | --- | --- |
