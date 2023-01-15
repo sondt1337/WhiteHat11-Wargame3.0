@@ -1,5 +1,7 @@
 # WhiteHat|WARGAME 3.0
 
+Dưới đây là 1 số challenge mình làm được
+
 | Topic | Challenge | Pts |
 | --- | --- | --- |
 | RE | WhiteHatPlay11v1  | 128 | 
