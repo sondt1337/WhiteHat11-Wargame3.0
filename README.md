@@ -19,3 +19,4 @@ Dưới đây là 1 số challenge mình làm được trong quá trình giải 
 | CRYPTOGRAPHY | [Caesar](/solutions/Caesar.md) | 32 | ★★★☆☆
 | FORENSICS | [Beginner forensics](/solutions/Beginner-forensics.md) | 32 | ★★★☆☆
 | MISCELLANEOUS | [Audio](/solutions/Audio.md) | 64 | ★★★☆☆
+| MISCELLANEOUS | [MISCELLANEOUS](/solutions/Discord-check.md) | 32 | ★★★★☆
