@@ -5,6 +5,8 @@ Lĩnh vực: OSINT
 
 Điểm: 128
 
+Given file: [File](/challenge wargame/re/re1)
+
 # Hướng giải
 
 Mở file bằng IDA, để ý `_main`
