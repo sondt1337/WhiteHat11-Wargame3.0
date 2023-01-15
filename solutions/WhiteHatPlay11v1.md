@@ -1,9 +1,11 @@
 # WhiteHatPlay11v1
 Tác giả:  admin-wargame
 
-Lĩnh vực: RE
+Lĩnh vực: REVERSE ENGINEERING
 
-Điểm: 128
+Điểm: 32
+
+Đánh giá: ★☆☆☆☆
 
 Given file: [File](/challenge_wargame/re/re1)
 
