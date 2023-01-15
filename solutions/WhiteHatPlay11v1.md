@@ -1,11 +1,11 @@
 # WhiteHatPlay11v1
 Tác giả:  admin-wargame
 
-Lĩnh vực: OSINT
+Lĩnh vực: RE
 
 Điểm: 128
 
-Given file: [File](/challenge wargame/re/re1)
+Given file: [File](/challenge_wargame/re/re1)
 
 # Hướng giải
 
