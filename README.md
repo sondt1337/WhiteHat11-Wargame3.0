@@ -20,3 +20,5 @@ Dưới đây là 1 số challenge mình làm được trong quá trình giải 
 | FORENSICS | [Beginner forensics](/solutions/Beginner-forensics.md) | 32 | ★★★☆☆
 | MISCELLANEOUS | [Audio](/solutions/Audio.md) | 64 | ★★★☆☆
 | MISCELLANEOUS | [MISCELLANEOUS](/solutions/Discord-check.md) | 32 | ★★★★☆
+
+Mình hiểu ra 1 điều, hình như không phải là ho rate sao thấp vì ra đề kém, mà là rate sao thấp vì đề khoai :)))
