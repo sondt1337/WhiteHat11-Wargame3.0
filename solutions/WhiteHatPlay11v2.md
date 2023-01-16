@@ -57,7 +57,7 @@ Theo mình hiểu code sẽ là qua hàm lấy từng ký tự của input xor v
 
 ![](https://i.imgur.com/aJZkT0O.png)
 
-Hàm này có công dụng gọi 36 byte đầu của input và mỗi ký tự khi gọi sẽ được xor với 11 (^11) và sau đó cộng với 11 
+Hàm này có công dụng gọi 36 byte đầu của input và mỗi ký tự khi gọi sẽ được xor với 0x11 (^ 0x11) và sau đó cộng với 11 
 
 Viết script:
 
