@@ -1,0 +1,1 @@
+>A client hired me as a private investigator to track down her husband, Cuming Brian, because she suspected him of having an affair. Check out his social media accounts to see if there's anything interesting
