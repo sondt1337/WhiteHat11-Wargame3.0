@@ -19,6 +19,7 @@ Dưới đây là 1 số challenge mình làm được trong quá trình giải 
 | CRYPTOGRAPHY | [RSA](/solutions/RSA.md) | 128 | ★★★☆☆
 | CRYPTOGRAPHY | [Caesar](/solutions/Caesar.md) | 32 | ★★★☆☆
 | FORENSICS | [Beginner forensics](/solutions/Beginner-forensics.md) | 32 | ★★★☆☆
+| FORENSICS | [Corrupt](/solutions/Corrupt.md) | 64 | ★★★★☆
 | MISCELLANEOUS | [Audio](/solutions/Audio.md) | 64 | ★★★☆☆
 | MISCELLANEOUS | [Discord check](/solutions/Discord-check.md) | 32 | ★★★★☆
 
