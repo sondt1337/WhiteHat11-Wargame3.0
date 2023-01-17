@@ -1,4 +1,4 @@
-# WhiteHat|WARGAME 3.0
+# WhiteHat | WARGAME 3.0
 
 Dưới đây là 1 số challenge mình làm được trong quá trình giải diễn ra
 
