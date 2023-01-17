@@ -15,7 +15,7 @@ Check main:
 
 ![image](https://user-images.githubusercontent.com/87920408/212787344-f09c6b93-049e-43f3-a31f-082960e8d06f.png)
 
-Qua check hàm main thì dễ thấy hàm này đơn giản là cho 1 dãy ký tự đầu vào, sau đó chúng ta phải nhập flag và hàm này sẽ check từng ký tự rồi xor với số thứ tự của chúng và cộng thêm 1 
+Qua check hàm main thì dễ thấy hàm này đơn giản là cho 1 dãy ký tự đầu vào, sau đó chúng ta phải nhập flag và hàm này sẽ check từng ký tự rồi xor với số thứ tự của chúng (đã cộng thêm 1) 
 
 ![image](https://user-images.githubusercontent.com/87920408/212787564-e6cb90ed-c0ff-4e6e-9cb7-3324e6e8b09d.png)
 
