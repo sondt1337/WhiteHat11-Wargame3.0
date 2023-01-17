@@ -50,5 +50,16 @@ Lưu lại và chúng ta sẽ thấy sự khác biệt, bình thường sau bư�
 
 ![image](https://user-images.githubusercontent.com/87920408/212951189-19e1f834-ae9f-4f90-a56e-3cb83c3f5ff4.png)
 
+Try hard vẽ lại bằng pixel cái QR: thì ở các phần bị thiếu sẽ bổ sung được vài thứ quan trọng 
 
+![image](https://user-images.githubusercontent.com/87920408/212953135-1b97b97e-67b3-4014-aa83-7c2c181a43f5.png)
+
+Giải thích: 
+Do sau khi nhập các phần viền của các phần ô vuông, thì nó tự nhận diện và fill nốt cái viền còn lại
+
+![image](https://user-images.githubusercontent.com/87920408/212953322-d9a2ae87-77a8-47cb-94b0-99dd2d70d0c0.png)
+
+Quét cái QR bên trên thì ra flag
+
+flag: `WhiteHat{4a5y_W4rmup_ch4lleng3_f0r_SUMMER_RACEEE}`
 
