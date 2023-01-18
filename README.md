@@ -22,5 +22,6 @@ Dưới đây là 1 số challenge mình làm được trong quá trình giải 
 | FORENSICS | [Corrupt](/solutions/Corrupt.md) | 64 | ★★★★☆
 | MISCELLANEOUS | [Audio](/solutions/Audio.md) | 64 | ★★★☆☆
 | MISCELLANEOUS | [Discord check](/solutions/Discord-check.md) | 32 | ★★★★☆
+| MISCELLANEOUS | [Art](/solutions/Art.md) | 128 | ★★★★☆
 
 Mình hiểu ra 1 điều, hình như không phải là ho rate sao thấp vì ra đề kém, mà là rate sao thấp vì đề khoai :)))
