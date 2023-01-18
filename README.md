@@ -11,6 +11,7 @@ Dưới đây là 1 số challenge mình làm được trong quá trình giải 
 | REVERSE ENGINEERING | [flagcheck](/solutions/flagcheck.md)  | 64 | ★★★☆☆
 | OSINT | [Summer vacation: my first place](/solutions/Summer-vacation:-my-first-place.md) | 128 | ★★★★☆
 | OSINT | [Summer vacation: Flight Flight Flight](/solutions/Summer-vacation:-Flight-Flight-Flight.md) | 64 | ★★★★☆
+| OSINT | [Kidnapping case](/solutions/Kidnapping case.md) | 128 | ★★★★☆
 | OSINT | [Adultery I](/solutions/Adultery-I.md) | 32 | ★★★☆☆
 | CRYPTOGRAPHY | [b64&xor](/solutions/b64&xor.md) | 32 | ★★★☆☆
 | CRYPTOGRAPHY | [Programmer](/solutions/Programmer.md) | 64 | ★★★☆☆
